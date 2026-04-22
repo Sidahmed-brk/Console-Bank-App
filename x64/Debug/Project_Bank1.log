@@ -1,0 +1,5 @@
+﻿  Project_Bank1.cpp
+C:\Users\sidah\OneDrive\Desktop\Projects\repos\Project_Bank1\Project_Bank1\Project_Bank1.cpp(50,29): warning C4267: '=' : conversion de 'size_t' en 'short', perte possible de données
+C:\Users\sidah\OneDrive\Desktop\Projects\repos\Project_Bank1\Project_Bank1\Project_Bank1.cpp(299,1): warning C4715: 'DeleteCientByAccountNumber' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\sidah\OneDrive\Desktop\Projects\repos\Project_Bank1\Project_Bank1\Project_Bank1.cpp(362,1): warning C4715: 'UpdateClientByAccountNumber' : les chemins de contrôle ne retournent pas tous une valeur
+  Project_Bank1.vcxproj -> C:\Users\sidah\OneDrive\Desktop\Projects\repos\Project_Bank1\x64\Debug\Project_Bank1.exe
